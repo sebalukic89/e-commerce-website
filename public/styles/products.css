@@ -56,7 +56,7 @@
 #product-description {
   background-color: var(--color-primary-400);
   padding: var(--space-8);
-  white-space: pre-wrap;
+  /* white-space: pre-wrap; */
 }
 
 @media (min-width: 48rem) {
